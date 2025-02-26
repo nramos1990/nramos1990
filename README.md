@@ -1,13 +1,13 @@
 ## Hola, como estas? 👋
 
-### <p align='center'> Mi Nombre es <b>Nicolas Ramos</b>  </p>
+### <h3> Mi Nombre es <b>Nicolas Ramos</b>  </h3>
   <p>
-Soy desarrollador Full Stack de Chile
+Soy desarrollador de software Full Stack de Chile
     </p>
 <p align="left">
   8 años de experiencia en el rubro.
  <br>
-  <h1>Algunos de mis conocimientos: </h1>
+  <h3>Algunos de mis conocimientos: </h3>
 <br/>
 
 <div align="center">
