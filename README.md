@@ -7,7 +7,7 @@ Soy desarrollador Full Stack de Chile
 <p align="left">
   8 años de experiencia en el rubro.
  <br>
-  <h1>Algunos de mis conocimientos: </h1>h1>
+  <h1>Algunos de mis conocimientos: </h1>
 <br/>
 
 <div align="center">
